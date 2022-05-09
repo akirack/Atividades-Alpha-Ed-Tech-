@@ -1,0 +1,79 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>template</title>
+	<style>
+		.s0 { fill: #881619 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #ff0000 } 
+		.s3 { fill: #291688 } 
+	</style>
+	<path id="Background" class="s0" d="m0 0h1280v720h-1280z"/>
+	<g id="flower">
+		<path id="Forma 1" class="s1" d="m1107 260.9l-715.6 279.9-487.5-594 414.4-647.2 743.6 194.1z"/>
+		<path id="Forma 2" class="s1" d="m837.9 539.6l567.9-230.1 394.4 469-324.2 520-594.8-147.6z"/>
+		<path id="Forma 3" class="s1" d="m-60 331h6v58h-6z"/>
+		<path id="Forma 4" class="s1" d="m91.5 295.4l-105.7 169.5-193.9-48.2-14.1-199.3 185.2-75z"/>
+		<path id="Forma 5" class="s1" d="m118 786.2l-174.4 59.8-116.6-131.8 102.3-141.2 179.8 44.5z"/>
+		<path id="Forma 6" class="s1" d="m697.4 826l-167.8-10.6-124-88.9-7.6-115 113.2-73.7 167.8 10.6 124 88.8 7.6 115z"/>
+		<path id="Forma 7" class="s1" d="m764.1 439.5l415.2-176.2 33.6 79.2-415.2 176.2z"/>
+		<path id="Forma 8" class="s1" d="m252 629.9l-270.7-68.8 194.9-200z"/>
+		<path id="Forma 9" class="s1" d="m1120.5-52.6l113.9-41.8-20.8 119.5z"/>
+		<path id="Forma 10" class="s1" d="m1219.5 149.9l60.8-305.2 233.9 205.3z"/>
+		<path id="Forma 11" class="s1" d="m1163 160.4l363 36.4-213 296.1z"/>
+		<path id="Forma 12" class="s1" d="m121.5 754.4l-4.8-3.2 5.1-2.6z"/>
+		<path id="Forma 13" class="s1" d="m163.5 703.4l5.2 86.9-77.9-38.9z"/>
+		<path id="Forma 14" class="s1" d="m220.5 695.9l8.1 76.3-70.2-31.2z"/>
+		<path id="Forma 15" class="s1" d="m283.5 686.9l42 98.7-106.5-13z"/>
+		<path id="Forma 16" class="s1" d="m360 644.9l64.2 157.9-168.9-23.4z"/>
+		<path id="Forma 17" class="s1" d="m259.5 695.9l-20.2 167.6-135.1-101.3z"/>
+		<path id="Forma 18" class="s1" d="m147 683.9l-22.6 127-98.8-83.1z"/>
+		<path id="Forma 19" class="s1" d="m177 695.9l97.1 105.9-140.2 31.1z"/>
+		<path id="Forma 20" class="s1" d="m868.5 650.9l-25.2 200.5-161.1-122.1z"/>
+		<path id="Forma 21" class="s1" d="m433.5 763.4l10.3-3-2.6 10.4z"/>
+		<path id="Forma 22" class="s1" d="m711 494.9l-191.4 11.4 85.8-171.4z"/>
+		<path id="Forma 23" class="s2" d="m409.5 181.4l-123.9-27.5 85.8-93.6z"/>
+		<path id="Forma 24" class="s2" d="m640 124.4l-174.4-148 215.3-77.1z"/>
+		<path id="Forma 25" class="s2" d="m958.5 62.9l-263.1-97.2 215.7-179.2z"/>
+		<path id="Forma 26" class="s2" d="m1101 40.4l-162.5-89.2 158.5-96.2z"/>
+		<path id="Forma 27" class="s2" d="m-63 98.9l50.8-317.4 249.4 202.7z"/>
+		<path id="Forma 28" class="s2" d="m198 98.9l185.2-386 241.6 353.4z"/>
+		<path id="Forma 29" class="s2" d="m315 55.4l-381.5 14.7 176.5-304z"/>
+		<path id="Forma 30" class="s2" d="m822 56.9l-349 3.4 171.5-303.9z"/>
+		<path id="Forma 31" class="s2" d="m921-6.1l215-142.1 15.5 257.2z"/>
+		<path id="Forma 32" class="s3" d="m1212 754.4l72.4-248.8 179.2 187z"/>
+		<path id="Forma 33" class="s3" d="m1125 665.9l337.7 48-210.4 268.4z"/>
+		<path id="Forma 34" class="s3" d="m1165.5 707.9l-128.4 266.1-166.2-244.3z"/>
+		<path id="Forma 35" class="s3" d="m952.5 707.9l190.3-28.9-70.1 179.2z"/>
+		<path id="Forma 36" class="s3" d="m973.5 686.9l-125.2 261.2-163.6-239z"/>
+		<path id="Forma 37" class="s3" d="m1132.5 691.4l96 67.5-106.5 49.4z"/>
+		<path id="Forma 38" class="s3" d="m934.5 712.4l106.4 7.5-59.8 88.4z"/>
+		<path id="Forma 39" class="s3" d="m628.5 650.9l198.8 74.2-163.6 135.1z"/>
+		<path id="Forma 40" class="s3" d="m667.5 587.9l-20.7 353.9-296.1-194.9z"/>
+		<path id="Forma 41" class="s3" d="m0 166.4l-19.9 17.4-5.2-25.9z"/>
+		<path id="Forma 42" class="s3" d="m30 197.9l-76.5 44.1v-88.3z"/>
+		<path id="Forma 43" class="s3" d="m67.5 230.9l-159.1 103.8-10.3-189.7z"/>
+		<path id="Forma 44" class="s3" d="m100.5 310.4l-235.8 28.1 93.6-218.3z"/>
+		<path id="Forma 45" class="s3" d="m-40.5 452.9l28.6-28.5 10.3 38.9z"/>
+		<path id="Forma 46" class="s3" d="m94.5 331.4l-184.7 64.6 36.4-192.3z"/>
+		<path id="Forma 47" class="s3" d="m78 367.4l-256.8 85.2 54.6-265z"/>
+		<path id="Forma 48" class="s3" d="m67.5 400.4l-179 22.6 70-166.3z"/>
+		<path id="Forma 49" class="s3" d="m22.5 416.9l-119.5 6 54.5-106.6z"/>
+		<path id="Forma 50" class="s3" d="m13.5 437.9l-113.9-36.3 88.3-80.5z"/>
+		<path id="Forma 51" class="s3" d="m103.5 298.4l-279.6 35.4 109.2-259.8z"/>
+		<path id="Forma 52" class="s3" d="m102 341.9l-208.9-8.5 111.8-176.6z"/>
+		<path id="Forma 53" class="s3" d="m72 370.4l-293.5-61.6 200-223.4z"/>
+		<path id="Forma 54" class="s3" d="m30 416.9l-262.4-85.6 205.3-184.4z"/>
+		<path id="Forma 55" class="s3" d="m24 428.9l-162.2-26.4 103.9-127.3z"/>
+		<path id="Forma 56" class="s3" d="m9 439.4l-135.7-11.7 77.9-111.7z"/>
+		<path id="Forma 57" class="s3" d="m0 455.9l-77-60.6 91-36.4z"/>
+		<path id="Forma 58" class="s3" d="m57 542.9l-159.3-16.1 93.6-129.9z"/>
+		<path id="Forma 59" class="s3" d="m61.5 536.9l-128.4 110.1-31.2-166.3z"/>
+		<path id="Forma 60" class="s3" d="m88.5 619.4l-200.6 109.8 5.2-228.7z"/>
+		<path id="Forma 61" class="s3" d="m54 644.9l-77.2 167.6-106.6-150.7z"/>
+		<path id="Forma 62" class="s3" d="m16.5 706.4l108.5 42.3-91 72.8z"/>
+		<path id="Forma 63" class="s3" d="m19.5 118.4l-7.8 121.5-101.4-67.6z"/>
+		<path id="Forma 64" class="s3" d="m34.5 131.9l-146.6 0.6 72.7-127.3z"/>
+		<path id="Forma 65" class="s3" d="m34.5 74.9l-61.9 74.7-33.7-91z"/>
+		<path id="Forma 66" class="s3" d="m-46.5 194.9l-86.2-97.3 127.4-26z"/>
+		<path id="Forma 67" class="s3" d="m0 79.4l-23.1-190.7 176.7 75.3z"/>
+	</g>
+</svg>
