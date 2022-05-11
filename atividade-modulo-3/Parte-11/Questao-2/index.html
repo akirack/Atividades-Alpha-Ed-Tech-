@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        h1 {
+            text-align: center;
+        }
+
+        #cor {
+            color: brown;
+        }
+
+        .fonte {
+            font-size: 40px;
+        }
+
+        div p[sapo="x"]{
+            border: 1px solid black;
+        }
+
+        a:hover {
+            color: #15ff00;
+        }
+
+        h2::first-line {
+            color: blue;
+            text-transform: uppercase;
+        }
+
+        div p {
+            background-color: red;
+        }
+        
+        div > h3 {
+            background-color: yellow;
+        }
+
+        div + p {
+            background-color: rgb(81, 255, 0);
+        }
+
+        span ~ p {
+            background-color: rgb(0, 238, 255);
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <h1>Id</h1>
+
+    <p id="cor">A cor desse paragrafo é de acordo com o que esta marcado no id #cor</p>
+
+    <hr>
+    <h1>Classe</h1>
+
+    <p class="fonte">A fonte desse paragrafo tem o tamanho definido de acordo com o que 
+        esta marcado na classe .fonte</p>
+
+    <hr>
+    <h1>Pseudo Classe</h1>
+
+
+    <a href="#">Link</a>
+    
+    <hr>
+    <h1>Pseudo Elemento</h1>
+
+    <h2>
+        Somente essa parte vai receber a cor azul já que é a primeira linha
+            <br>
+        Como essa é a segunda linha não fica azul.
+    </h2>
+
+    <h1>Seletores descedentes</h1>
+    <hr>
+
+    <div>
+        <p>Como p esta dentro da div então ele é alvo do seletor por descendência</p>
+
+        <p>Como p esta dentro da div então ele é alvo do seletor por descendência</p>
+
+        <h3>Já o essa tag não é afetada uma vez que não é um paragrafo/h3>
+    </div>
+
+    <h1>Seletores filho</h1>
+    <hr>
+
+    <div>
+        <h3>Como esse é imediato a div então herda de div</h3>
+        <span><h3>Nesse caso não, ja que este esta dentro do span</h3></span>
+    </div>
+
+    <hr>
+    <h1>Seletor irmaõs Adjacentes</h1>
+
+    <div>
+
+    </div>
+
+    <p>Como esse é o primeiro p esta dentro da div então ele é alvo do seletor</p>
+
+    <p>Já esse é o segundo p e como não é imediatamente a div então não é alvo</p>
+
+    <hr>
+    <h1>Seletor Geral irmaõs</h1>
+
+    <span>
+
+    </span>
+
+    <p>Como esse é o primeiro p esta dentro da div então ele é alvo do seletor já que é geral</p>
+
+    <p>Como esse é o degundo p esta dentro da div então ele é alvo do seletor já que é geral</p>
+
+</body>
+</html>
