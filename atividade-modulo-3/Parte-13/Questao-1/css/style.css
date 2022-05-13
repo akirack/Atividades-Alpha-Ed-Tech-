@@ -1,0 +1,62 @@
+body div {
+    margin: 40px;
+    padding: 40px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+#um {
+    background-color: chocolate;
+    color: white;
+}
+
+#dois {
+    background-color: rgba(117, 190, 218, 0.5);
+}
+
+#tres {
+    background-color: hsla(50, 33%, 25%, 0.75);
+}
+
+#quatro {
+    background-image: url("/Questao-1/img/196wj9j7lm58gjpg.webp");
+    background-repeat: no-repeat;
+    background-color: #0084f0;
+    background-size: cover;
+    height: 200px;
+}
+
+#cinco {
+    background-image: url("/Questao-1/img/pf11728.png");
+    background-repeat: repeat;
+}
+
+#seis {
+    background-image: url("/Questao-1/img/pf11728.png");
+    background-repeat: no-repeat;
+}
+
+#sete {
+    background-image: url("/Questao-1/img/pf11728.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#oito {
+    background-image: url("/Questao-1/img/pf11728.png");
+    background-color: #afc2d1;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#nove {
+    
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 750px;
+
+    overflow: scroll;
+
+    background-image: url("/Questao-1/img/19183755227514.webp");
+}

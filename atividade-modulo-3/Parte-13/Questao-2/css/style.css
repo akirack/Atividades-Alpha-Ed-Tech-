@@ -1,0 +1,58 @@
+
+body div {
+    margin: 40px;
+    padding: 40px;
+    text-align: center;
+}
+
+#um{
+    border: 1px solid black;
+}
+
+#dois{
+    border: 20px solid;
+    border-color: rgb(253, 0, 139) rgb(85, 197, 241) rgb(81, 189, 81) rgb(150, 150, 22);
+
+    /* border-top: 15px solid rgb(0, 225, 255);
+    border-bottom: 15px solid rgb(255, 0, 0);
+    border-right: 15px solid rgb(30, 255, 0);
+    border-left: 15px solid rgb(255, 0, 140); */
+}
+
+#tres{
+    border: 15px dotted rgb(255, 0, 170);
+}
+
+#quatro{
+    border-top: 10px solid rgb(32, 32, 68);
+    border-bottom: 5px dashed rgb(0, 0, 0);
+    background-color: aqua;
+}
+
+#cinco{
+    border: 12px double rgb(133, 12, 73);
+    background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(255, 45, 8), rgb(173, 32, 32), rgb(163, 97, 36));
+}
+
+#seis{
+    border: 10px groove orangered;
+    background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(163, 97, 36));
+}
+
+#sete{
+    border: 10px ridge rgb(131, 16, 51);
+    background-image: linear-gradient(to right, rgb(8, 255, 152), rgb(32, 173, 154));
+}
+
+#oito{
+    border-style: solid;
+    border-color: rgb(253, 0, 139) rgb(85, 197, 241) rgb(81, 189, 81) rgb(150, 150, 22);
+    border-width: 8px 16px 18px 9px;
+}
+
+#nove {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(253, 0, 139) rgb(85, 197, 241) rgb(81, 189, 81) rgb(150, 150, 22);
+    border-width: 10px
+}

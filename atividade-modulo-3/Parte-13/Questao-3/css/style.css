@@ -1,0 +1,12 @@
+
+#circle {
+    background-image: url("/Questao-3/img/Sem\ título.png");
+    background-color: #e5ff00;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 5px 10px #e5ff00;
+    border: solid;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
