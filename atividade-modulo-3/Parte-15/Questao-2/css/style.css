@@ -1,0 +1,49 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    margin-left: 2vh;
+}
+
+li {
+    float: left;
+    margin: 4vh 0;
+}
+
+li a {
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 128);
+    padding: 2vh 3vh;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
+
+li a:hover {
+    background-color: rgb(176, 7, 255);
+    color: black;
+}
+
+li a:active {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+ li a:visited {
+    color: rgb(255, 255, 255);
+}
+
+li a:focus {
+    background-color: rgb(121, 7, 252);
+    color: white;
+}
+
+#nav-bar {
+    background-color: rgb(255, 0, 128);
+    height: 10vh;
+}

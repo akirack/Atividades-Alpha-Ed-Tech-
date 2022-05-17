@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'Aubrey';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/Questao-3/fonts/aubrey-v28-latin-regular.woff'); 
+}
+
+  @font-face {
+    font-family: 'Open-Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/Questao-3/fonts/open-sans-v29-latin-700italic.woff2');
+}
+
+ul{
+    list-style: none;  
+}
+
+li {
+    border: 1px solid rgb(0, 237, 245);
+    width: 200px;
+    text-align: center;
+}
+
+li a {
+    font-family: Aubrey;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aqua;
+    color: rgb(25, 0, 252);
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+}
+
+li a:hover {
+    font-family: Open-Sans;
+    background-color: green;
+    color: rgb(0, 252, 0);
+}

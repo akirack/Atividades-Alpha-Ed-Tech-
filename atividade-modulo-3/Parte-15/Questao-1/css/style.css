@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+#lateral-bar {
+    width: 10vw;
+    height: 100vh;
+    background-color: coral;
+    border-right: 2px solid black;
+}
+
+ul{
+    list-style: none;  
+}
+
+li {
+    border: 0.1vw solid rgb(255, 255, 255);
+    width: 7.5vw;
+    text-align: center;
+    margin: 1vw auto;
+}
+
+li a {
+    font-size: large;
+    font-weight: 800;
+    background-color: rgb(128, 63, 11);
+    color: rgb(255, 255, 255);
+    display: block;
+    text-decoration: none;
+    padding: 1vw;
+    
+}
+
+li a:hover {
+    background-color: rgb(211, 112, 31);
+}
