@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 40vh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center; 
+    flex-wrap: wrap;
+}
+
+.container-2{
+    height: 20vh;
+    display: flex;
+    justify-content:end;
+    align-items: center; 
+}
+
+.container-3 {
+    height: 40vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container div, .container-2 div, .container-3 div {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    background-color: brown;             
+}
+
+div p {
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    margin: 0;
+    position: relative;              
+    top: 50%;                         
+    transform: translate(0, -50%)
+}
+
+#um {
+    align-self: flex-start;
+
+}
+
+#tres {
+    align-self: flex-end;
+}
+
+
+#cinco {
+    align-self: flex-end;
+}
+
+
+#sete {
+    align-self: flex-start;
+}
