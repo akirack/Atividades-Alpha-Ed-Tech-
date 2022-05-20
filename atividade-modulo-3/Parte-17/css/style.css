@@ -1,64 +1,161 @@
+
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 }
 
-.container {
-    height: 40vh;
+.flex {
     display: flex;
-    justify-content:space-between;
-    align-items: center; 
+    flex-direction: row;
+    justify-content: space-between;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
-.container-2{
-    height: 20vh;
+.box {
     display: flex;
-    justify-content:end;
-    align-items: center; 
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: start;
+    gap: 10px;
 }
 
-.container-3 {
-    height: 40vh;
+.box-img {
+    border: 1px solid black;
     display: flex;
-    justify-content:space-around;
+    justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
 }
 
-.container div, .container-2 div, .container-3 div {
-    width: 100px;
-    height: 100px;
-    border-radius: 15px;
-    background-color: brown;             
+.box-1 {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: center;
+    gap: 10px;
 }
 
-div p {
-    text-align: center;
-    font-size: 32px;
-    color: white;
-    margin: 0;
-    position: relative;              
-    top: 50%;                         
-    transform: translate(0, -50%)
+.box-2 {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: end;
+    gap: 10px;
 }
 
-#um {
-    align-self: flex-start;
-
+.box-3 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: start;
+    gap: 10px;
 }
 
-#tres {
-    align-self: flex-end;
+.box-4 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: center;
+    gap: 10px;
 }
 
-
-#cinco {
-    align-self: flex-end;
+.box-5 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    justify-content: end;
+    background-color: coral;
+    gap: 10px;
 }
 
+.box-5 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: end;
+    align-items: start;
+    gap: 10px;
+}
 
-#sete {
-    align-self: flex-start;
+.box-6 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    gap: 10px;
+}
+
+.box-7{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    gap: 10px;
+}
+
+.box-8 {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    justify-content: start;
+    align-items: end;
+    gap: 10px;
+}
+
+.box-9 {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    align-items: end;
+    justify-content: center;
+    background-color: coral;
+    gap: 10px;
+}
+
+.box-10 {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    align-items: end;
+    justify-content: end;
+    background-color: coral;
+    gap: 10px;
+}
+
+.box-img img {
+    width: 180px;
+    height: 180px;
+}
+
+.box div, .box-1 div, .box-2 div, 
+.box-3 div, .box-4 div, .box-5 div, 
+.box-6 div, .box-7 div, .box-7 div, 
+.box-8 div, .box-9 div, .box-10 div 
+{
+    width: 80px;
+    height: 80px;
+    background-color: blueviolet;
 }
