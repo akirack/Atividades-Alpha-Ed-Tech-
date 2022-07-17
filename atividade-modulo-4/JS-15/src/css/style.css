@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wait {
+    cursor: wait;
+}
+
+table {
+    margin: 20px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width: 200px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 20px;
+}
+
+#btn, input, select {
+    padding: 10px;
+    font-size: 18px;
+}

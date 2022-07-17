@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <title>Document</title>
+</head>
+<body>
+
+  <div>
+    <h1>Choose a coin:</h1>
+
+    <select name="coins" id="coins">
+    <!-- <option disabled selected value="">Choise...</option>
+      <option value="BRL">BRL</option>
+      <option value="USD">USD</option>
+      <option value="EUR">EUR</option>
+      <option value="BTC">BTC</option>
+      <option value="JPY">JPY</option> -->
+    </select>
+
+    <input id="init-date" type="date">
+    <input id="end-date" type="date">
+
+    <button id="btn">Cotar</button>
+  </div>
+
+  <div id="ctn-map"> 
+    <iframe id="frameMap" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14713.595064253397!2d0.000!3d0.000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1657141703121!5m2!1spt-BR!2sbr" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            
+  </div>
+
+    <script type="module" src="./src/js/main.js"></script>
+</body>
+</html>
